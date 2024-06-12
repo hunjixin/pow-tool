@@ -3,8 +3,9 @@ module github.com/hunjixin/pow-tool
 go 1.22.4
 
 require (
+	github.com/ALTree/bigfloat v0.2.0
 	github.com/holiman/uint256 v1.2.4
-	github.com/lilypad-tech/lilypad v0.0.1-08ac6ae4e4e0776a0cab5dd04c4941a37cb00039.0.20240610101238-420274ef4bc4
+	github.com/lilypad-tech/lilypad v0.0.1-08ac6ae4e4e0776a0cab5dd04c4941a37cb00039.0.20240612082944-6e7ff88525bb
 )
 
 require (
